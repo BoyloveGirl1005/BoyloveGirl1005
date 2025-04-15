@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f15d07fb-c5ab-4e10-86c7-983f7746eb48/dgdidfa-0a46e71a-b401-4b73-ac6c-80627deb1503.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxNWQwN2ZiLWM1YWItNGUxMC04NmM3LTk4M2Y3NzQ2ZWI0OFwvZGdkaWRmYS0wYTQ2ZTcxYS1iNDAxLTRiNzMtYWM2Yy04MDYyN2RlYjE1MDMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cgl73oWrDBjaV1JjWfUZ8EG4JP4pJQyA7WX32tG3iHk](https://pixeljeff.tumblr.com/image/622311016403009536)" alt="banner" style="width:100%;"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="banner" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Viết Hoàng</h1>
 
